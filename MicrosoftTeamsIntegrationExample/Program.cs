@@ -9,6 +9,8 @@ namespace MicrosoftTeamsIntegrationExample
         static void Main(string[] args)
         {
             CadastrarCliente();
+
+            Console.ReadKey();
         }
 
         public static void CadastrarCliente()
